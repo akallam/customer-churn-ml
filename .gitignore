@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+.ipynb_checkpoints/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data
+data/*.csv # Uncomment if you decide not to track processed data
+data/*.zip
+data/*.json
+
+# IDE specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
