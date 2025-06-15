@@ -16,6 +16,9 @@ data/*.csv # Uncomment if you decide not to track processed data
 data/*.zip
 data/*.json
 
+# Processed data
+/data/processed/
+
 # IDE specific files
 .vscode/
 .idea/
